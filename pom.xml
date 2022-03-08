@@ -10,7 +10,7 @@
 	<properties>
 		<com.yozdemir.version>0.0.1</com.yozdemir.version>
 		<org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
-		<org.liquibase.version>3.6.3</org.liquibase.version>
+		<org.liquibase.version>4.8.0</org.liquibase.version>
 		<org.springframework.version>2.1.1.RELEASE</org.springframework.version>
 	</properties>
 
